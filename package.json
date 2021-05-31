@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-image-docker",
+  "version": "1.0.0",
+  "description": "nodejs image demo",
+  "author": "casper adams",
+  "license": "MIT",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
